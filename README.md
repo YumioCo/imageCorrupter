@@ -1,6 +1,6 @@
 # imageCorrupter
 
-Image Corrupter 0.01v
+Image Corrupter v0.01
 
 --BETA VERSION--
 
